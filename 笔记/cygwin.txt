@@ -1,0 +1,3 @@
+ cd  d:   进入d盘
+
+https://www.cnblogs.com/yanghong-hnu/p/4708126.html 相关介绍

@@ -1,0 +1,4 @@
+PhpSpreadsheet导出科学记数转成字符串
+
+$logistic_code."\t"   加上\t即可转成字符串
+$sheet->setCellValue('F' . $k, $value['card']."\t");

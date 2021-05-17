@@ -1,0 +1,8 @@
+安装设置cnpm
+npm install cnpm -g --registry=https://registry.npm.taobao.org
+
+安装yarn
+npm install -g yarn
+
+安装ifanrx-react-ueditor
+npm install ifanrx-react-ueditor

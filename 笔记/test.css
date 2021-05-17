@@ -1,0 +1,29 @@
+/*
+-------------------------------------------------------------------
+Created with TexturePacker https://www.codeandweb.com/texturepacker
+-------------------------------------------------------------------
+Inline:     <i class="yourspritesname"></i>
+Responsive: <div class="yourspritesname"></div>
+*/
+
+
+.160 {max-width:160px; max-height:205px; }
+.160::after {content: '\00a0';display: inline-block; width:160px; height:205px; background-position: 61.388286334056396% 81.34535367545077%;background-size: 676.25% 803.4146341463414%;background-image: url(test.png);padding: 0; }
+div.160::after {max-width:160px; width:100%;height:0;padding: 0 0 128.125% 0;}
+.32的5倍 {max-width:160px; max-height:160px; }
+.32的5倍::after {content: '\00a0';display: inline-block; width:160px; height:160px; background-position: 61.388286334056396% 92.73705447209146%;background-size: 676.25% 1029.375%;background-image: url(test.png);padding: 0; }
+div.32的5倍::after {max-width:160px; width:100%;height:0;padding: 0 0 100% 0;}
+.470 {max-width:470px; max-height:90px; }
+.470::after {content: '\00a0';display: inline-block; width:470px; height:90px; background-position: 92.48366013071896% 69.49261400128452%;background-size: 230.2127659574468% 1830%;background-image: url(test.png);padding: 0; }
+div.470::after {max-width:470px; width:100%;height:0;padding: 0 0 19.148936170212767% 0;}
+.fao {max-width:564px; max-height:564px; }
+.fao::after {content: '\00a0';display: inline-block; width:564px; height:564px; background-position: 0.19305019305019305% 99.90766389658357%;background-size: 191.84397163120568% 292.02127659574467%;background-image: url(test.png);padding: 0; }
+div.fao::after {max-width:564px; width:100%;height:0;padding: 0 0 100% 0;}
+.favicon {max-width:60px; max-height:60px; }
+.favicon::after {content: '\00a0';display: inline-block; width:60px; height:60px; background-position: 55.38160469667319% 97.03843730308759%;background-size: 1803.3333333333333% 2745%;background-image: url(test.png);padding: 0; }
+div.favicon::after {max-width:60px; width:100%;height:0;padding: 0 0 100% 0;}
+.logo {max-width:1080px; max-height:1080px; }
+.logo::after {content: '\00a0';display: inline-block; width:1080px; height:1080px; background-position: 50% 0.1763668430335097%;background-size: 100.18518518518519% 152.5%;background-image: url(test.png);padding: 0; }
+div.logo::after {max-width:1080px; width:100%;height:0;padding: 0 0 100% 0;}
+
+/* $TexturePacker:SmartUpdate:aaf709205cbf295e5b1f7f4c0cd87c23:152fdd6d1d88c40eaa2655c7ef530152:1a4beba4193919b01a56dc2c2a237cfe$ */

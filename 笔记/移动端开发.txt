@@ -1,0 +1,11 @@
+ui框架  vant, taro 库
+搭vue脚手架, 了解多页面
+rem 移动端适配
+分享图生成, pixi js框架库, 案例黄河财险ypic
+howl  音频框架
+
+eva.js  https://eva-engine.gitee.io/#/tutorials/intro
+
+Lolita动画压缩
+https://www.yuque.com/lottie/manual/wz8ga5
+https://design.alipay.com/lolita

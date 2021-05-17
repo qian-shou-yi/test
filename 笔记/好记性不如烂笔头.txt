@@ -1,0 +1,18 @@
+git pull 拉取远程代码
+git reset --hard HEAD  撤销工作目录中所有未提交文件的修改内容, 影响工作目录
+git reset HEAD  撤销缓存区的内容, 不影响工作目录
+
+PHP中的精确计算bcadd，bcsub，bcmul，bcdiv 及 扩展bcmath安装
+
+执行job
+无序任务: php queue_work.php 1 (多加一个参数)
+
+ps -ef |grep test.php 查进程pid
+top -p pid
+
+打开控制台  supervisorctl
+restart 名称(多个空格隔开), 重启脚本
+reload 重载所有supervisor服务
+help 查看命令
+
+分享图生成, pixi js框架库, 案例黄河财险ypic

@@ -1,0 +1,15 @@
+git clone http://git.jx.com:8181/git/wtw.git
+
+// 已经存在的git仓库, 使用https方式, 修改git远程地址进行访问
+git remote set-url origin http://git.jx.com:8181/git/jxpay.git
+
+git rm --cached +文件名->这个命令不会删除物理文件，只是将已经add. 进缓存的文件删除
+git restore --staged  +文件名->将文件从暂存区撤出，但不会撤销文件的更改
+git resore +文件名->将不在暂存区的文件撤销更改
+
+git reset HEAD 回退到当前版本, 可以清空缓存区
+
+git stash
+git pull
+git stash pop
+
